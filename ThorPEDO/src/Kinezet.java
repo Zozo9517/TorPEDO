@@ -1,4 +1,4 @@
 public class Kinezet {
         int bela = 0;
-        int gyanos = bela + 1;
+        int gyanos = 2;
 }
