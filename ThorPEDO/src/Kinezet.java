@@ -9,6 +9,9 @@ public class Kinezet extends Main {
 
 
         obj.setBounds(10,10,1600,768);
+        obj.setLayout(new GridLayout(0,2));
+        obj.add(new JButton("bal oldal"));
+        obj.add(new JButton("jobb oldal"));
         obj.setBackground(Color.DARK_GRAY);
         obj.setResizable(false);
         obj.setVisible(true);
