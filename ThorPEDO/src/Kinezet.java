@@ -8,11 +8,10 @@ public class Kinezet extends Main {
         JFrame obj =new JFrame();
 
 
-        obj.setBounds(10,10,1014,768);
+        obj.setBounds(10,10,1600,768);
         obj.setBackground(Color.DARK_GRAY);
         obj.setResizable(false);
         obj.setVisible(true);
         obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
-
 }
