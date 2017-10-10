@@ -15,6 +15,4 @@ public class Ship_Element
     private Color Base_Color;
 
 
-
-
 }
