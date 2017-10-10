@@ -1,6 +1,5 @@
 import javax.swing.*;
 import java.awt.*;
-import static java.awt.Color.*;
 
 public class Kinezet extends Main {
 
@@ -16,5 +15,6 @@ public class Kinezet extends Main {
         obj.setResizable(false);
         obj.setVisible(true);
         obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
     }
 }
